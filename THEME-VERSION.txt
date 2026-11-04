@@ -1,0 +1,5 @@
+PaperMod official upstream: https://github.com/adityatelange/hugo-PaperMod
+Commit: 118119693d8b5ac211b939775678310973bcb232
+Bundled unmodified source (excluding Git metadata) under themes/PaperMod.
+Theme license: themes/PaperMod/LICENSE (MIT).
+Hugo build verified with v0.169.0.

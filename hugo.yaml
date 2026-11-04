@@ -1,0 +1,27 @@
+baseURL: https://divsonar.dev/
+locale: en-US
+title: Divsonar's Blog
+theme: PaperMod
+enableRobotsTXT: true
+
+params:
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  homeInfoParams:
+    Title: Welcome to my blog.
+    Content: I write about things I find interesting to share with the world.
+  socialIcons:
+    - name: github
+      url: https://github.com/Divsonar
+    - name: linkedin
+      url: https://www.linkedin.com/in/holden-han/
+
+menu:
+  main:
+    - name: Posts
+      url: /posts/
+      weight: 10
+    - name: Tags
+      url: /tags/
+      weight: 20
